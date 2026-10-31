@@ -2,3 +2,4 @@
 
 - [Введение](./docs/introduction.md)
 - [Сложность алгоритмов](./docs/complexity.md)
+- [Массивы](./docs/arrays.md)
